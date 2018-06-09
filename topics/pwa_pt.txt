@@ -1,4 +1,6 @@
 # Progressive Web Apps (PWA)
 
+Uma coleção de padrões Web modernos para webapps que replicam uma experiência nativa em plataforma móvel com acesso à notificações, offline-first e presença na tela inicial dos aparelhos.
+
 MDN: https://developer.mozilla.org/en-US/Apps/Progressive
 

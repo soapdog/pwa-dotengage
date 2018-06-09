@@ -1,4 +1,8 @@
 # Elm
 
-Site: https://www.elm-lang.org
+Uma linguagem funcional para a construção de webapps seguros e confiáveis.
+
+* Site: https://www.elm-lang.org
+* Guia: https://guide.elm-lang.org 
+* Livro bacana: http://azer.bike/journal/elm/?
 
