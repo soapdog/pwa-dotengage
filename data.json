@@ -1,0 +1,34 @@
+{
+  "user": {
+    "name": "Andre Alves Garzia",
+    "email": "andre@amoralabs.com",
+    "site": "http://andregarzia.com",
+    "phone": "+55999581066",
+    "socialNetworks": [
+      [
+        "twitter",
+        "https://twitter.com/soapdog"
+      ],
+      [
+        "mastodon",
+        "https://toot.cafe/@soapdog"
+      ],
+      [
+        "ssb",
+        "@gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519"
+      ]
+    ]
+  },
+  "events": [
+    {
+      "name": "Rio JS Day 2018",
+      "dateStart": 1528531200,
+      "dateEnd": 1528585200,
+      "topics": {
+        "Conhecendo Elm": "/topics/elm_pt.txt",
+        "Conhecendo PWAs": "/topics/pwa_pt.txt",
+        "Meus Contatos": "/topics/contact_pt.txt"
+      }
+    }
+  ]
+}
