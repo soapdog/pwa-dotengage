@@ -25,9 +25,9 @@
       "dateStart": 1528531200,
       "dateEnd": 1528585200,
       "topics": {
-        "Conhecendo Elm": "/topics/elm_pt.txt",
-        "Conhecendo PWAs": "/topics/pwa_pt.txt",
-        "Meus Contatos": "/topics/contact_pt.txt"
+        "Conhecendo Elm": "topics/elm_pt.txt",
+        "Conhecendo PWAs": "topics/pwa_pt.txt",
+        "Meus Contatos": "topics/contact_pt.txt"
       }
     }
   ]
