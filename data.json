@@ -25,10 +25,10 @@
       "dateStart": 1528531200,
       "dateEnd": 1528585200,
       "topics": {
-        "Conhecendo Elm": "/topics/elm_pt.txt",
-        "Conhecendo PWAs": "/topics/pwa_pt.txt",
-        "Meus Contatos": "/topics/contact_pt.txt",
-        "My Contacts": "/topics/contact_en.txt"
+        "Conhecendo Elm": "/pwa-dotengage/topics/elm_pt.txt",
+        "Conhecendo PWAs": "/pwa-dotengage/topics/pwa_pt.txt",
+        "Meus Contatos": "/pwa-dotengage/topics/contact_pt.txt",
+        "My Contacts": "/pwa-dotengage/topics/contact_en.txt"
       }
     }
   ]
