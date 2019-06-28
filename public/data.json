@@ -3,7 +3,7 @@
     "name": "Andre Alves Garzia",
     "email": "andre@amoralabs.com",
     "site": "http://andregarzia.com",
-    "phone": "+55999581066",
+    "phone": "+447828236138",
     "socialNetworks": [
       [
         "twitter",
@@ -27,7 +27,8 @@
       "topics": {
         "Conhecendo Elm": "/topics/elm_pt.txt",
         "Conhecendo PWAs": "/topics/pwa_pt.txt",
-        "Meus Contatos": "/topics/contact_pt.txt"
+        "Meus Contatos": "/topics/contact_pt.txt",
+        "My Contacts": "/topics/contact_en.txt"
       }
     }
   ]
